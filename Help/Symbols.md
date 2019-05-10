@@ -22,7 +22,7 @@
 π pi  
 ω omega  
 Ω omega (up)  
-Δ Delta
+Δ Delta  
 ≠ 不等于  
 ≈ 约等于  
 ⊥垂直  
