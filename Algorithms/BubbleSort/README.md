@@ -1,7 +1,7 @@
 ## 冒泡排序 (Bubble Sort)
 
 ### 简介
-冒泡排序是最简单（但不是最有效）的排序算法之一！想象一串大小不一的气泡，较小的气泡从最底层向上冒出，最终形成有规律的排列。
+冒泡排序是最简单（但不是最有效）的排序算法之一！想象一串大小不一的气泡，较小(或较大)的气泡从最底层向上冒出，最终形成有规律的排列。
 
 ![瓶中气泡](https://raw.githubusercontent.com/speed-sonic/algorithm/master/Algorithms/BubbleSort/images/1.png "瓶中气泡")
 
