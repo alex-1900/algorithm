@@ -1,8 +1,6 @@
 #ifndef __BINARY_TREE__
 #define __BINARY_TREE__
 
-#include <stdlib.h>
-
 typedef struct _node {
     int key;
     struct _node * left;
